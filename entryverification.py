@@ -48,4 +48,3 @@ print("For any assistance, feel free to reach out to our help desk.")
 print('be safe, be hydrated, be supportive.')
 print("drive home safely.\n LOVE from techno team. ")
 print("We look forward to seeing you again at our future events!")
-              
